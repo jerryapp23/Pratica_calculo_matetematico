@@ -6,7 +6,7 @@ int main(){
     int soma = a + b;
     int diferenca = a - b;
     int produto = a * b;
-    int quoeciente = a/b; // note que a divisão de inteiro resulta em um número inteiro
+    int quociente = a/b; // note que a divisão de inteiro resulta em um número inteiro
     
     printf("Soma: %d\n", soma);
     printf("Diferenca: %d\n", diferenca);
