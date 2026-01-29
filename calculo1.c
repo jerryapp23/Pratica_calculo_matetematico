@@ -13,6 +13,4 @@ int main(){
     printf("Produto: %\n", produto);
     printf(Quoeficiente: %\n", quoeficiete);
     
-    
-
 return 0;
