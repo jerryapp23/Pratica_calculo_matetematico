@@ -9,8 +9,8 @@ int main(){
     int quoeficiente = a/b; // note que a divisão de inteiro resulta em um número inteiro
     
     printf("Soma: %\n", soma);
-    printf("Diferenca: %\n", diferenca):
+    printf("Diferenca: %\n", diferenca);
     printf("Produto: %\n", produto);
-    printf(Quoeficiente: %\n", quoeficiete);
+    printf("Quoeficiente: %\n", quoeficiete);
     
 return 0;
